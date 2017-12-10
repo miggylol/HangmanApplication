@@ -5,6 +5,3 @@ The purpose of this repo is to show how I started off in Python. The code looks 
 
 ## The Updated Version
 The file "Better_HangmanGame" is also part of this repo to show my progress as a programmer. This program is seperated into functions without the use of any global variables. This can be run on any IDE.
-
-## Test
-This is to test out the branching in Git Deskstop
